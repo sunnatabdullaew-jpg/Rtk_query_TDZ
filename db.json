@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "name": "Feruzsadklasdklasdlkrfse",
+      "email": "hyra0603@gmail.com",
+      "id": "6COIRRjv02g"
+    },
+    {
+      "name": "egerge",
+      "email": "egege",
+      "id": "tUR1V_l2pw4"
+    },
+    {
+      "name": "Feruz",
+      "email": "hyra0603@gmail.com",
+      "id": "Cfhx6ERIiqo"
+    },
+    {
+      "name": "Feruz",
+      "email": "hyra0603@gmail.com",
+      "id": "5gzbb5orcV4"
+    },
+    {
+      "name": "eferge",
+      "email": "geger",
+      "id": "nREVkzP7fRs"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
